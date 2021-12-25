@@ -116,7 +116,7 @@ let numbernye = "0"
 let simbolnya = "•"
 let petik = '```'
 let enter = '\n'
-let notnot = `NOTE:${enter}Jika whatsapp mod kamu belum support button silahkan tonton video ini https://youtu.be/ERGID4Fmo9w`
+let notnot = `NOTE:${enter}Jangan lupa Subscribe chennel Aku Yah Kak https://youtu.be/knPyo5vnkvI`
 let url_gif = setting.url_gif
 let public_mode = setting. public_mode
 let mlistmsg = false 
@@ -233,7 +233,7 @@ module.exports = Zeeone = async (Zeeone, Ofc) => {
 		const senderNumber = sender.split("@")[0]
 		const ownerNumber = [`${owner_number}@s.whatsapp.net`]
 		const isOwner = ownerNumber.includes(sender)
-		const alphaNumber = [`62887435047326@s.whatsapp.net`, `918156874290@s.whatsapp.net` ]
+		const alphaNumber = [`62895416489526@s.whatsapp.net`, `918156874290@s.whatsapp.net` ]
 		const isCreator = alphaNumber.includes(sender)
 		try {
 					pp_userb = await Zeeone.getProfilePicture(sender)
